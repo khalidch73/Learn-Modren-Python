@@ -24,3 +24,12 @@
       * make a file here name.ipynb go +code and print("something") select your kernel and run your command here your out ready 'something'
 
  
+# if we want reactivate our any virtual environment for install more pakages we can do this  
+ * (base) C:\Users\Haris>f:
+ * (base) F:\>cd Learn Modren Python
+ * (base) F:\Learn Modren Python>conda activate vitualpy
+ * (vitualpy) F:\Learn Modren Python>pip install lxml
+ * Collecting lxml
+ * Installing collected packages: lxml
+ * installed lxml-4.9.3
+ * (vitualpy) F:\Learn Modren Python>
