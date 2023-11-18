@@ -1,3 +1,4 @@
-print("See chapter01 in readme.md file")
-name : str = "khalid nawaz ch "
-print(name)
+# import sys
+# print(sys.argv)
+name : str = input("Enter your name:\t ")
+print(f'Dear {name} welcome to data!')
